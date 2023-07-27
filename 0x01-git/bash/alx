@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-echo "ALX School"
-=======
->>>>>>> 8bb80f2031f855ea65f8f5d5d3787c52cc1ef64e
 #!/bin/bash
 echo "ALX School"
